@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 938 1280" role="img" aria-labelledby="title desc">
+  <title id="title">Onah Lawrence portrait placeholder</title>
+  <desc id="desc">Abstract blue portrait placeholder with cinematic lighting and a monogram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06213c"/><stop offset=".55" stop-color="#0042ac"/><stop offset="1" stop-color="#020812"/></linearGradient>
+    <radialGradient id="halo" cx="50%" cy="36%" r="58%"><stop stop-color="#00d3fb" stop-opacity=".45"/><stop offset="1" stop-color="#00d3fb" stop-opacity="0"/></radialGradient>
+    <linearGradient id="figure" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#89e7ff"/><stop offset=".42" stop-color="#1d77b5"/><stop offset="1" stop-color="#051328"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+  </defs>
+  <rect width="938" height="1280" fill="url(#bg)"/>
+  <circle cx="500" cy="370" r="330" fill="url(#halo)" filter="url(#blur)"/>
+  <g opacity=".19" fill="none" stroke="#83fd80"><circle cx="475" cy="600" r="380"/><circle cx="475" cy="600" r="300"/><path d="M40 950C220 770 300 1080 560 890s250-50 400-260"/></g>
+  <path d="M173 1280c24-260 130-404 302-451 80-22 193-13 260 42 113 92 153 231 170 409Z" fill="url(#figure)"/>
+  <ellipse cx="479" cy="468" rx="166" ry="205" fill="#1e5b91"/>
+  <path d="M321 453c-4-145 61-254 184-264 110-8 191 76 180 220-43-62-91-91-161-89-66 3-127 49-203 133Z" fill="#061529"/>
+  <path d="M395 514c38 31 103 39 165 0" fill="none" stroke="#83fd80" stroke-opacity=".75" stroke-width="5" stroke-linecap="round"/>
+  <path d="M238 1140 775 450" stroke="#00d3fb" stroke-opacity=".22" stroke-width="18"/>
+  <text x="80" y="112" fill="#f4f7fb" font-family="Arial, sans-serif" font-size="23" letter-spacing="8">ONAH / PLACEHOLDER</text>
+  <text x="80" y="1182" fill="#83fd80" font-family="Arial, sans-serif" font-size="20" letter-spacing="6">REPLACE WITH YOUR PORTRAIT</text>
+</svg>
